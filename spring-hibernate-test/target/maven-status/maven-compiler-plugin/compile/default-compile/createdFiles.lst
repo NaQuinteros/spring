@@ -1,0 +1,3 @@
+com\sarasa\Repository\paisRepository.class
+com\sarasa\springhibernatetest\SpringHibernateTestApplication.class
+com\sarasa\Model\Pais.class
